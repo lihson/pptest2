@@ -25,4 +25,4 @@ Author: 栗漢文  r11922191
 
 ## Others
 1. The code for ploting for Report Q2 are already embeded in train.py.  
-2. test_strategy.py is for the Report Q3.
+2. run_strategy.sh and test_strategy.py are for the Report Q3.
